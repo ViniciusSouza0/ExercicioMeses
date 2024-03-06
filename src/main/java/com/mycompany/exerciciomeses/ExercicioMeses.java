@@ -9,8 +9,6 @@ public static void main(String[] args) {
 Scanner teclado2 = new Scanner(System.in);
 
 int x;
-String nome;
-
 
 System.out.println("Escolha um mês:");
 x = teclado2.nextInt();
